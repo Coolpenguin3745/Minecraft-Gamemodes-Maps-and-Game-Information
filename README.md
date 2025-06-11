@@ -1,4 +1,4 @@
-# Minecraft-Gamemodes-Maps
+# Minecraft-Gamemodes-Maps-and-Game-Information
 This GitHub repository will act as the central hub for accessing gamemode repositories, map downloads, and game information.
 
 ## Gamemodes Map and game information Repositories:
