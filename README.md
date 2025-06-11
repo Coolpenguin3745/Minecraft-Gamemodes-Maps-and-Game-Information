@@ -5,7 +5,7 @@ This GitHub repository will act as the central hub for accessing gamemode reposi
 
 ### Murder Mystery
 
-https://github.com/Coolpenguin3745/Minecraft-Murder-Mystery-Maps
+https://github.com/Coolpenguin3745/Minecraft-Murder-Mystery-Maps-and-Game-Information
 
 ### Hide and Seek
 
