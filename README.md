@@ -32,4 +32,4 @@ https://github.com/Coolpenguin3745/Minecraft-Run-From-the-Beast-Maps-and-Game-In
 
 https://github.com/Coolpenguin3745/Minecraft-Friday-the-13th-Maps-and-Game-Information
 
-## More gamemodes will be added soon
+### More gamemodes will be added soon
